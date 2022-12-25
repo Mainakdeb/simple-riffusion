@@ -1,2 +1,5 @@
-# simple-riffusion
-Easy to use riffusion pipeline on Colab
+# simple-riffusion 🎶
+Easy to use [Riffusion](https://en.wikipedia.org/wiki/Riffusion) pipeline on Colab.
+
+Generate music from text prompts 🎵 
+
